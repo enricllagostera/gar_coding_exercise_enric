@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "60139d218dd15023",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ae03089481d2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082d9ca0082f2437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0515e832d5928d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9fad86435827f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578429f29854ca67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67d04d087c42d9f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67ef5a9db4cf2e5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.51190185546875
+  },
+  "right": {
+    "id": "b28ca51ebf7a88e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "60ce4d84822d8dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7878c67943464d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20bed022b7cbdb30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d31f313fcbf18d8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "025e0c3a2484c173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "082d9ca0082f2437",
+  "lastOpenFiles": [
+    "Ponte bugs and wishlist.md",
+    "memos/20240711-img_layoutsketching.md",
+    "journals/20240711-image_memos_first_last.md",
+    "memos/20240711-img_playtest0.md",
+    "journals/20240703-patterns_structures.md",
+    "journals/20240702-initial_notes.md",
+    "memos/20240711-img_initialbrainstom.md",
+    "memos/20240703-potential_axis_expectations_humor.md",
+    "memos/20240703-funny_fixes_humor_commit_msgs.md",
+    "memos/20240702-design_routine_as_research_question.md",
+    "memos/20240702-design_material_format_and_design_attention.md",
+    "ponte_projects/purrrfect_03.json",
+    "media/20240711145328.png",
+    "media/20240711144432.png",
+    "media/20240711142744.png",
+    "ponte_projects/purrrfect_02.json",
+    "media/20240702150519.png",
+    "media/20240702132414.png",
+    "media/20240702132512.png",
+    "media/20240702132610.png",
+    "media/20240702132629.png",
+    "media/20240702133044.png",
+    "README.md",
+    "media/IMG-20240702133958937.png",
+    "media",
+    "ponte_projects/purrrfect_01.json",
+    "ponte_projects/purrrfect_00.json",
+    "ponte_projects",
+    "New folder",
+    "memos",
+    "journals",
+    "Welcome.md"
+  ]
+}

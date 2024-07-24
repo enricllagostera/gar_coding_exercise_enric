@@ -1,0 +1,12 @@
+{
+  "pathToPandoc": "C:\\ProgramData\\chocolatey\\bin\\pandoc.EXE",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "C:\\projects\\wiki\\zotero.bib",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}
