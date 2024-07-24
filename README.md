@@ -8,4 +8,10 @@ This is what I'll be doing:
 >
 > For the next two weeks, we’ll be skipping regular meetings to focus on this coding exercise (and because Rilla’s out of town lol). But in the meantime, please drop questions about using Ponte in the ⁠`🔨-tool-talk` channel. Discussion of codes and coding can happen in the ⁠`🔎-practices-of-analysis` channel. And it may be helpful to do some co-working on this together in order to troubleshoot and discuss, so please let us know if you think we ought to organize a session for that at some point. Thank you so much for taking the time to read this really long message, and happy coding!
 
-The exercise is mostly done, I just mostly need to add a concluding memo.
+## How to read this
+
+The journal of the coding sessions are on the `journals` folder, [starting here](<./journals/20240702-initial_notes.md>). They give a good sense of how coding progressed, and would be a good starting point. Memos are on the `memos` folder, and encompass different analysis, discussion of codes, and image annotations. The Ponte project files are on the `ponte_projects`  folder and can be loaded on Ponte 0.1.5 for use. As I went about coding, I also started keeping track of bugs and issues with the tool itself [in a separate file](<./Ponte bugs and wishlist.md>). Finally, I wrote a short [closing journal note](<./journals/20240724-closing_note.md>) to wrap the exercise and showing the last state of the codebook. 
+
+An important reference in how I went about doing this is the Saldaña book below, mentioned in a few of my journal entries:
+
+> Saldaña, J. (2009). _The coding manual for qualitative researchers_. Sage.

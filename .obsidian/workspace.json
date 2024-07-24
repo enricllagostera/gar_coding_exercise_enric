@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "journals/20240724-closing_note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "journals/20240724-closing_note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "journals/20240724-closing_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "journals/20240724-closing_note.md"
               }
             }
           }
@@ -150,16 +150,18 @@
   "active": "082d9ca0082f2437",
   "lastOpenFiles": [
     "Ponte bugs and wishlist.md",
-    "memos/20240711-img_layoutsketching.md",
+    "journals/20240724-closing_note.md",
     "journals/20240711-image_memos_first_last.md",
+    "README.md",
+    "memos/20240702-design_routine_as_research_question.md",
+    "memos/20240703-potential_axis_expectations_humor.md",
+    "memos/20240703-funny_fixes_humor_commit_msgs.md",
+    "memos/20240702-design_material_format_and_design_attention.md",
+    "memos/20240711-img_layoutsketching.md",
     "memos/20240711-img_playtest0.md",
     "journals/20240703-patterns_structures.md",
     "journals/20240702-initial_notes.md",
     "memos/20240711-img_initialbrainstom.md",
-    "memos/20240703-potential_axis_expectations_humor.md",
-    "memos/20240703-funny_fixes_humor_commit_msgs.md",
-    "memos/20240702-design_routine_as_research_question.md",
-    "memos/20240702-design_material_format_and_design_attention.md",
     "ponte_projects/purrrfect_03.json",
     "media/20240711145328.png",
     "media/20240711144432.png",
@@ -171,7 +173,6 @@
     "media/20240702132610.png",
     "media/20240702132629.png",
     "media/20240702133044.png",
-    "README.md",
     "media/IMG-20240702133958937.png",
     "media",
     "ponte_projects/purrrfect_01.json",

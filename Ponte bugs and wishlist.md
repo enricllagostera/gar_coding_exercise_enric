@@ -6,4 +6,5 @@
 - Wishlist
 	- [ ] 2024-07-03 Some form of autosaving of config file would be nice.
 	- [ ] 2024-07-02 Quick switching to specific code or source on export summary (similar to blogroll / timeline switching).
+	- [ ] 2024-07-24 Some way to export / copy-to-clipboard only the codebook (maybe as CSV or as one-code per line text? both with or without the annotations?) instead of whole project.
 
