@@ -10,7 +10,11 @@ This is what I'll be doing:
 
 ## How to read this
 
-The journal of the coding sessions are on the `journals` folder, [starting here](<./journals/20240702-initial_notes.md>). They give a good sense of how coding progressed, and would be a good starting point. Memos are on the `memos` folder, and encompass different analysis, discussion of codes, and image annotations. The Ponte project files are on the `ponte_projects`  folder and can be loaded on Ponte 0.1.5 for use. As I went about coding, I also started keeping track of bugs and issues with the tool itself [in a separate file](<./Ponte bugs and wishlist.md>). Finally, I wrote a short [closing journal note](<./journals/20240724-closing_note.md>) to wrap the exercise and showing the last state of the codebook. 
+The journal of the coding sessions are on the `journals` folder, [starting here](<./journals/20240702-initial_notes.md>). They give a good sense of how coding progressed, and would be a good starting point. Memos are on the `memos` folder, and encompass different analysis, discussion of codes, and image annotations. The Ponte project files are on the `ponte_projects`  folder and can be loaded on Ponte 0.1.5 for use. As I went about coding, I also started keeping track of bugs and issues with the tool itself [in a separate file](<./Ponte bugs and wishlist.md>). Finally, I wrote a short [closing journal note](<./journals/20240724-closing_note.md>) to wrap the exercise and showing the last state of the [codebook](<./journals/20240724-closing_note.md#Codebook>). 
+
+Here is a screenshot of the applied codes per commit:
+
+![Coded commits](<./media/20240725153937.png>)
 
 An important reference in how I went about doing this is the Saldaña book below, mentioned in a few of my journal entries:
 
